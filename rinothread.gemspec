@@ -8,8 +8,8 @@ Gem::Specification.new do |gem|
   gem.version       = Rinothread::VERSION
   gem.authors       = ["onlyexcellence"]
   gem.email         = ["will.robinson@myphotodynamic.com"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.description   = %q{Thread Limiter}
+  gem.summary       = %q{Queue and Limit concurrent Threads}
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($/)
