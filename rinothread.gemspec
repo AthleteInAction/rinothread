@@ -5,7 +5,7 @@ require 'rinothread/version'
 
 Gem::Specification.new do |gem|
   gem.name          = "rinothread"
-  gem.version       = Rinothread::VERSION
+  gem.version       = '0.0.2'
   gem.authors       = ["onlyexcellence"]
   gem.email         = ["will.robinson@myphotodynamic.com"]
   gem.description   = %q{Thread Limiter}
